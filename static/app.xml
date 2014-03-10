@@ -27,7 +27,7 @@
      relative path.
      Tip: You can load it from a local web server such as
      http://localhost/app.js for faster single user development -->
-<script src="//YOUR_APP_ID.appspot.com/static/app.js"></script>
+<script src="https://github.com/shanghaiellen/sentinels-hangout-app/blob/master/static/app.js"></script>
 <h1>OMG IT'S ELLEN'S APP</h1>
 <h1><img src="//YOUR_APP_ID.appspot.com/static/hangouts-logo.png" 
     alt="Google+ Hangouts Logo" height="50" width="50">Starter App</h1>
